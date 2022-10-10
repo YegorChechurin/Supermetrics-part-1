@@ -11,6 +11,9 @@ services:
       target: local
     ports:
       - "7777:80"
+    volumes:
+      - ./module:/app/module
+      - ./tests:/app/tests
 
 networks:
   default:
