@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Tests\Unit\Statistics\src\Calculator;
+namespace Tests\Unit\Statistics\Calculator;
 
 use DateTime;
 use SocialPost\Dto\SocialPostTo;

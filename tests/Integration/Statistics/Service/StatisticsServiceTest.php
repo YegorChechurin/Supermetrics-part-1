@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Tests\Integration\Statistics\src\Service;
+namespace Tests\Integration\Statistics\Service;
 
 use DateTime;
 use GuzzleHttp\Client;
